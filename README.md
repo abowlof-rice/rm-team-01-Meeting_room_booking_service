@@ -13,7 +13,6 @@
 
 ## Оглавление
 
-- [Документ о концепции и границах](vision-and-scope.md)
 - [Журнал изменений требований](CHANGELOG.md)
 
 Документы:
@@ -28,9 +27,11 @@
 8. [User stories](docs/08-user-stories.md)
 9. [Job stories](docs/09-job-stories.md)
 10. Use cases:
+    - [UC-CANCEL-01](docs/use-cases/uc-cancel-01.md)
     - [UC-ROOM-02](docs/use-cases/uc-room-02.md)
     - [UC-ROOM-03](docs/use-cases/uc-room-03.md)
-    - [UC-CANCEL-01](docs/use-cases/uc-cancel-01.md)
+   
+- [Документ о концепции и границах](vision-and-scope.md)
 
 ## Примечания к переносу
 
